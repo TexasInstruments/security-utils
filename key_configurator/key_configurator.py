@@ -9,7 +9,7 @@
 # this software subject to the terms herein.  With respect to the foregoing patent 
 # license, such license is granted  solely to the extent that any such patent is necessary 
 # to Utilize the software alone.  The patent license shall not apply to any combinations which 
-# include this software, other than combinations with devices manufactured by or for TI (TI Devices).
+# include this software, other than combinations with devices manufactured by or for TI ("TI Devices").
 # No hardware patent is licensed hereunder.
 #
 # Redistributions must preserve existing copyright notices and reproduce this license (including the 
